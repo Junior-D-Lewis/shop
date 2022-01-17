@@ -9,3 +9,5 @@ import router from './router/router'
 library.add(fas)
 
 createApp(App).use(router).component('fa', FontAwesomeIcon).mount('#app')
+
+/* First test with git in vs code */
